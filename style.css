@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    background: url('background.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.data-game {
+    color: white;
+    text-align: center;
+}
+.game-title {
+    text-align: center;
+    margin: 20px;
+    font-weight: 900;
+    font-size: large;
+}
+.map {
+    width: 629px;
+    height: 629px;
+    /* background: white; */
+    margin: auto;
+}
+#splash-screen {
+    color: white;
+    font-size: large;
+    text-align: center;
+}
